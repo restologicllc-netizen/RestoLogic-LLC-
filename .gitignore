@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Linux swap
+*.swp
+
+# Node (for future use)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vendor/Dist folders
+dist/
+build/
+
+# Logs
+*.log
+
+# VSCode/IDE/editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Local env
+.env
+
+# Backups and temporary files
+*.bak
+*.tmp
